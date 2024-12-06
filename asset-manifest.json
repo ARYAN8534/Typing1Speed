@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Typing1Speed/static/css/main.9c51811d.css",
+    "main.js": "/Typing1Speed/static/js/main.366f8513.js",
+    "static/js/453.ed3810f9.chunk.js": "/Typing1Speed/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Typing1Speed/index.html",
+    "main.9c51811d.css.map": "/Typing1Speed/static/css/main.9c51811d.css.map",
+    "main.366f8513.js.map": "/Typing1Speed/static/js/main.366f8513.js.map",
+    "453.ed3810f9.chunk.js.map": "/Typing1Speed/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c51811d.css",
+    "static/js/main.366f8513.js"
+  ]
+}
